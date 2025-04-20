@@ -96,6 +96,7 @@ http://localhost:8000/docs
 ```
 
 ## 📂 Project Structure
+```bash
 SR_USE_CASE/
 ├── app/
 │   ├── __pychache__
@@ -110,5 +111,5 @@ SR_USE_CASE/
 ├── ddl.sql
 ├── requirements.txt
 └── README.md
-
+```
 
