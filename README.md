@@ -37,7 +37,7 @@ This set of tables represents a relational schema that supports the Message Inge
 - gspread & oauth2client
 
 
-##📦 Features
+## 📦 Features
 
 - Accepts and stores incoming messages.
 - Retrieves opening keywords from Google Sheets.
@@ -45,7 +45,7 @@ This set of tables represents a relational schema that supports the Message Inge
 - Supports room creation and linking messages to rooms.
 - Mandatory fields like booking_date, transaction_date, and transaction_value.
 
-##🚀 How to Run
+## 🚀 How to Run
 
 1. Clone the Repository
 ```bash
@@ -70,7 +70,7 @@ http://localhost:8000/docs
 ```
 
 
-##📥 Example Request Bodies
+## 📥 Example Request Bodies
 ➕ Create a Room
 ```bash
 {
